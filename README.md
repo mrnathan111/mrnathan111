@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nathan Koplitz
-- 👀 I’m interested in Software Engineering internships and opportunities while I am attending college
-- 🌱 I’m currently enrolled in the Computer Science and Software Engineering major at the University of Washington Bothell 
+- 👀 I’m interested in Software Engineering Full-Time employment and opportunities while I am attending college
+- 🌱 I’m currently enrolled in the Computer Science & Software Engineering major at the University of Washington Bothell 
 - 📫 You can reach me at nkoplitz1@outlook.com
